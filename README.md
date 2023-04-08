@@ -49,7 +49,7 @@ Contém arquivos no formato `Delta`,  tendo sua escrita de dados através do `wr
 
 ### Desenvolvido por:
 
-> #### <code> Thomaz Antonio Rossito Neto </code> 
+> ### Thomaz Antonio Rossito Neto 
 > #### <code> Master Data Specialist @ CI&T - [link](https://ciandt.com/br/) </code> 
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
 > #### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
@@ -57,7 +57,7 @@ Contém arquivos no formato `Delta`,  tendo sua escrita de dados através do `wr
 
 ### Certificações e Credenciais:
 
-[Databricks](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet#gs.in4ak9)
-[AWS](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
-[AZURE](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
-[AirFlow](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
+[Databricks](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet#gs.in4ak9) <br>
+[AWS](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges) <br>
+[AZURE](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges) <br>
+[AirFlow](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges) <br>
