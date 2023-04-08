@@ -19,3 +19,28 @@ Contém arquivos no formato `Json`, tendo sua leitura de dados através do `read
 
 ### Camada Bronze
 Contém arquivos no formato `Delta`,  tendo sua escrita de dados através do `writeStream` do Apache Spark
+
+
+## Contido nos arquivos 
+
+## raw2Bronze.py
+
+### 1 - Step: import Lib functions
+### 2 - Step: Spark Session
+### 3 - Step: set log level
+### 4 - Step: Shuffle Spark
+### 5 - Step: Paths
+### 6 - Step: Dataframe Spark Read Strem: Json - Raw
+### 7 - Step: Dataframe Spark Write Strem: Delta - Bronze
+### 8 - Step: Optimize - Bronze
+
+
+## functions.py
+
+## 1 - import Libs
+## 2 - Functions: session_spark
+## 3 - Functions: Schema Evolution
+## 4 - Functions: Read Stream format Json
+## 5 - Functions: Write Stream format Delta
+## 6 - Functions: Tranformation rawToBronze
+## 7 - Functions: Optimize Path Delta
