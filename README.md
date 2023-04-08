@@ -7,6 +7,12 @@
 ### Objetivo:
 Configurar os recursos `Apache Spark Structured Streaming, Delta, MinIO` em um ambiente local
 
+### Recursos utilizados:
+1. **Sistema operacional `macOS Ventura`**
+2. **Apache Spark `v3.3.2`** [link](https://spark.apache.org/downloads.html)
+3. **Delta Lake `v2.3.0`** [link](https://delta.io/)
+4. **MinIO `RELEASE.2023-04-07T05-28-58Z`** [link](https://min.io/)
+
 ### Experimento:
 Executar conexão do `Apache Spark` com o `MinIO` e realizar pelo menos uma etapa de ingestão
 
