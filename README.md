@@ -57,7 +57,7 @@ Contém arquivos no formato `Delta`,  tendo sua escrita de dados através do `wr
 
 ### Certificações e Credenciais:
 
-> #### [Databricks](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet#gs.in4ak9)
-> #### [AWS](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
-> #### [AZURE](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
-> #### [AirFlow](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
+[Databricks](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet#gs.in4ak9)
+[AWS](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
+[AZURE](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
+[AirFlow](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
