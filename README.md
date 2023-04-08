@@ -50,9 +50,9 @@ Contém arquivos no formato `Delta`,  tendo sua escrita de dados através do `wr
 ### Desenvolvido por:
 
 > ## Thomaz Antonio Rossito Neto 
-> #### <code> Master Data Specialist @ CI&T - [link](https://ciandt.com/br/) </code> 
-> #### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
-> #### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
+> #### **Master Data Specialist @ CI&T** [link](https://ciandt.com/br/) </code> 
+> #### **Linkedin:** <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
+> #### **GitHub:** <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
 
 
 ### Certificações e Credenciais:
