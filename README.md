@@ -1,5 +1,10 @@
 # Spark Structured Streaming + Delta + MinIO
 
+Vídeo com a explicação:
+![Spark Structured Streaming com Delta Lake e MinIO](https://www.youtube.com/watch?v=pD0E13fadfw)
+![Complemento - Spark Structured Streaming com Delta Lake e MinIO](https://www.youtube.com/watch?v=yHck_j6rJsY)
+
+
 ## Arquitetura 
 
 ![image](https://tarn-cert.s3.amazonaws.com/desafio/sparkStream_Delta_MinIO.png)
